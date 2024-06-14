@@ -1,0 +1,16 @@
+{
+    "entries": [
+        {
+            "img": "{{webRoot}}/assets/images/Bilal.jpeg",
+            "name": "Bilal Nazer Ali",
+            "title": "Co-Founder",
+            "bio": "With over 18 years of software development and leadership experience at Fortune 500 and Global Fortune 500 companies, Bilal drive innovation and lead high-performing teams to deliver transformative solutions."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/Hamza.jpeg",
+            "name": "Hamza Sadiq",
+            "title": "Co-Founder",
+            "bio": "A technology professional fueled by innovation and an entrepreneurial spirit, adept at strategizing and executing solutions while collaborating with teams to drive value and bring ambitious tech plans to life."
+        }        
+    ]
+}
